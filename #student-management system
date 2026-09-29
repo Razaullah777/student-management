@@ -1,0 +1,8 @@
+A lightweight web application  built with html css ohp and mysql for managing student records .
+##features
+- Add new students recordwith form validation
+-view and list stored student records dynamically
+##Tech Stack
+-php
+-mysql
+-html5 /css3
